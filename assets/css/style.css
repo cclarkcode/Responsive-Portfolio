@@ -7,7 +7,7 @@ html {
 body { 
 
 	 	background-image: url(../images/vintage-concrete.png);
-	 	/*height: 100%;*/
+	 	
 
  }
 
@@ -245,14 +245,16 @@ p {
 
 	background: #4aaaa5;
 	color: white;
-	width: 290px;
+	width: 50%;
 	text-align: center;
 	font-size: 16px;
 	z-index: 2;
 	position: absolute;
 	height: 40px;
 	line-height: 40px;
-	bottom: 25px;
+	bottom: 15px;
+	left: 0;
+	right: 0;
 
 }
 .smalltext {
